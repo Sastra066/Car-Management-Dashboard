@@ -28,6 +28,13 @@ Tabel data pada tugas kali ini berisi seperti gambar diatas, kemudian dari keemp
 relasi diatas megambarkan bagaimana sistem akan bekerja
 
 # BackEnd
+## Add uploads folder
+
+```
+cd public
+mkdir uploads
+```
+
 ## Setup Server
 ```
 npm install
